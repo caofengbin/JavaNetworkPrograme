@@ -2,9 +2,7 @@ package com.network.chapter2;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.io.OutputStream;
 import java.io.OutputStreamWriter;
-import java.io.Writer;
 
 /**
  * 测试使用书写器的方法
